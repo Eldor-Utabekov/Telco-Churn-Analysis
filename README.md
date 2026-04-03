@@ -1,3 +1,8 @@
+
+<img width="1115" height="621" alt="image_2026-04-03_16-32-23" src="https://github.com/user-attachments/assets/80220283-5f21-4fa3-b8c0-d45cd7febb59" />
+
+<img width="1118" height="627" alt="image_2026-04-03_16-35-29" src="https://github.com/user-attachments/assets/7f8bd4f9-557f-4c00-93e9-685c06ebdc96" />
+
 # 📊 Telco Churn Strategy: Financial Forecasting & Star Schema
 
 ## Project Objective
